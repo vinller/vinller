@@ -3,7 +3,7 @@
 </div>  
   
 
-*<div align="center">I'm a passionate frontend developer and robotics enthusiast </div>*
+## **<div align="center">I'm a passionate frontend developer and robotics enthusiast </div>**
   
 
 <br/>  
