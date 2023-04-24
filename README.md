@@ -16,7 +16,7 @@
 ----  
   
 
-- I'm 18 years old. I'm graduating from [Arizona State University](https://www.asu.edu/) in the year 2026.  
+- I'm 19 years old. I'm graduating from [Arizona State University](https://www.asu.edu/) in the year 2026.  
   
 
 - I've recently gotten interested in Web Development.  
