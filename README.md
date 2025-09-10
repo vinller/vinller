@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://thetatau-dg.org/">
-    <img src="https://cdn.vinnyy.me/github/profile/tt.png" alt="Theta Tau Logo" height="40" />
+    <img src="[https://cdn.vinnyy.me/github/profile/tt.png](https://en.wikipedia.org/wiki/Theta_Tau)" alt="Theta Tau Logo" height="40" />
     <br/>
     thetatau-dg.org — Website development for my professional co-ed engineering fraternity
   </a>
