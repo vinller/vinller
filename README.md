@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://inventory.vinnyy.me/">
-    <img src="https://cdn.vinnyy.me/github/profile/invloglogo.png" alt="Inventory Logger Logo" height="40" />
+    <img src="https://cdn.vinnyy.me/github/profile/NEW-ICON.png" alt="Inventory Logger Logo" height="40" />
     <br/>
     Inventory Logger — A custom-built system for Arizona State University
   </a>
