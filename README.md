@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  I’m 21 and graduating from <a href="https://www.asu.edu/">Arizona State University</a> in 2026.<br/>
+  I’m 22 and graduating from <a href="https://www.asu.edu/">Arizona State University</a> in 2027.<br/>
   I’ve recently developed a strong interest in modern web development.<br/>
   Beyond code, I enjoy music, tennis, gaming, and 3D printing.
 </p>
